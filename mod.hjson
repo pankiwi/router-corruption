@@ -1,0 +1,13 @@
+{
+ name: router
+ displayName: "[red]router Birus[]"
+ author: ''''
+ [accent]Mod Creator[]: Pankiwi 
+ '''
+ description: '''
+ do not install this you can destroy your mindustry games
+ '''
+ version: 1
+ minGameVersion: 130
+ repo: pankiwi/router-corruption
+}
