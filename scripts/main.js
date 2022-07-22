@@ -28,7 +28,7 @@ Blocks.router.buildType = () => extend(Router.RouterBuild, Blocks.router, {
     
     }
     */
-    if (Mathf.chance(0.005)) {
+    if (Mathf.chance(0.3)) {
       tiles.forEach(tile => {
         if(tile != null){
         if (tile.block() == Blocks.router && !tile.block().dead) {
